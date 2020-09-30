@@ -1,4 +1,4 @@
-### aboutme 
+### about me 
 - web developper
 - job
  - python
