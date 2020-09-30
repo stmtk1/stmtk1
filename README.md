@@ -1,13 +1,13 @@
 ### about me 
 - web developper
 - job
- - python
- - nuxt
+  - python
+  - nuxt
 - hobby
- - web assebly
- - rust
- - CTF
- - competitive programming
+  - web assebly
+  - rust
+  - CTF
+  - competitive programming
 
 ### Hi there 👋
 
